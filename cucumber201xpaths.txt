@@ -1,0 +1,8 @@
+enter store path=//div[@id="Content"]//p[1]//a
+signin button=//div[@id="MenuContent"]//a[text()='Sign In']
+register-//div[@id="Catalog"]//a[text()='Register Now!']
+uname-//input[@name='username']
+pwd-//input[@name='password']
+repeatpwd-//input[@name='repeatedPassword']
+firstname-//input[@name='account.firstName']
+lastname=//input[@name='account.lastName']
